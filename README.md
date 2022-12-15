@@ -1,16 +1,13 @@
-# crossptodo
+# Cross Platform ToDo
 
-A new Flutter project.
+A Cross Platform ToDo application written in dart, Flutter and Isar for the database. 
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+![alt preview1](https://i.imgur.com/7cdJFGR.png)
 
-A few resources to get you started if this is your first Flutter project:
+![alt preview2](https://i.imgur.com/DxEW5ZZ.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are the resources for Flutter and Isar.
+- [Flutter](https://flutter.dev/)
+- [Isar](https://isar.dev/)
