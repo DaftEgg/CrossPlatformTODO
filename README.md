@@ -1,6 +1,6 @@
 # Cross Platform ToDo
 
-A Cross Platform ToDo application written in dart, Flutter and Isar for the database. 
+A Cross Platform ToDo application written in Dart, Flutter and Isar for the database. 
 
 ## Preview
 
